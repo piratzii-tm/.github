@@ -8,9 +8,9 @@
 
 💻 **Echipele** pot avea 1 sau 2 (solo sau duo), iar membrii echipei nu este necesar sa facă parte din πratzii la momentul actual, dar pot fi invitați folosind link-ul: https://discord.gg/KNVRzTu38J
 
-💻 **Perioada de înscriere** este între 18-23  iulie inclusiv
+💻 **Perioada de înscriere** este între 18-23 iulie 2023 inclusiv
 
-💻 **Perioada desfășurării** este între 25-31 iulie inclusiv.
+💻 **Perioada desfășurării** este între 25-31 iulie 2023 inclusiv.
 
 💻 **Jurizarea** se va face la finalul concursului, iar criteriile de jurizare sunt următoarele:
 - cât de inovativă este ideea
