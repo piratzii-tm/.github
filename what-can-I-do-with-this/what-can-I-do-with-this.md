@@ -1,5 +1,7 @@
 # What can I do with this?
 
+## Description
+
 💻  Primul nostru hackathon se numește *What can I do with this?* și se bazează pe crearea de software / hardware de orice tip, atâta timp cât este creat pe perioada concursului. 
  
 💻  **Tema concursului**, așa cum am menționat mai sus este liberă. Fiecare echipă are libertatea să creeze orice referitor la orice temă.
@@ -15,3 +17,9 @@
 - cât de funcțional este produsul
 
 De asemenea pentru jurizare va fi nevoie de un repo pe Github cu prezentarea proiectului asemănătoare cu aceasta: https://github.com/piratzii-tm/iTec_2023
+
+## Teams and projects
+
+- [ Oppenheimer&Barbie ](https://github.com/PopIulian88/Piratzi-Hackerton_1_Edition)
+- [ miss anxiety ](https://github.com/gabrielabutnaru/find-my-spot)
+- [ 🎯 coding buddies ](https://github.com/RaevschiCatalin/codebuddy/tree/main)
