@@ -7,5 +7,6 @@
 
 ## Activities
 
-> Alongside our love for participating in different contests we like to bring our own touch to the competitive programming world, so we are doing all sorts of activities with our community. Below you will find the links to hackathons we organized:
+> Alongside our love for participating in different contests we like to bring our own touch to the competitive programming world, so we are doing all sorts of activities with our community. Below you will find the links to the hackathons we organized:
 
+- [What can I do with this?](https://github.com/piratzii-tm/.github/blob/hackathons/what-can-I-do-with-this/what-can-I-do-with-this.md)
