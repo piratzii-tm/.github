@@ -14,4 +14,6 @@
 
 #### 👾 Our Hackathons:
 
+- [WinterCode Wonderland 2023](https://github.com/piratzii-tm/.github/blob/hackathons/winter-code-wonderland-23/winter-code-wonderland-23.md)
 - [What can I do with this?](https://github.com/piratzii-tm/.github/blob/hackathons/what-can-I-do-with-this/what-can-I-do-with-this.md)
+
